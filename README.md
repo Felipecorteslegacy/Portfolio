@@ -1,5 +1,5 @@
 # Portfolio:
-Portfolio Optimization
+Interactive Portfolio Optimization based on many criteria and ratios.
 
 College project on portfolio optimization
 
